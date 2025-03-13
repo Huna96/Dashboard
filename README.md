@@ -23,6 +23,7 @@ student_assessment contains the actual grades that each student received in each
 
 
 ## Dashboard
+You can see my Dashborad live in tablue click here: <a href="https://public.tableau.com/views/Book1_17337794497980/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"> Dashboard </a>
 ![Story 1 (1)](https://github.com/user-attachments/assets/8b21d6e7-5ac1-4ffe-a935-7dd6fdca5851)
 
 ![Story 1](https://github.com/user-attachments/assets/2abbb469-8357-4daa-babd-2daa60a3b112)
